@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rodrigo Rodrigues e sou Desenvolvedor Fullstack Sênior, de Recife, Pernambuco, Brasil.</p>
+<p align="left">Meu nome é Rodrigo Rodrigues e sou Desenvolvedor de Software, de Recife, Pernambuco, Brasil.</p>
 
 ###
 
